@@ -1,7 +1,7 @@
 ---
 title: HTML5 New Elements
 date: 2016-07-04 12:24:50
-tags: [前端]  
+tags: [HTML]  
 toc: false 
 ---
 ![](http://o768r1c9k.bkt.clouddn.com/w3schools.png)

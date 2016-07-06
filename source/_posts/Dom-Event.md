@@ -1,7 +1,7 @@
 ---
 title: Dom Event
 date: 2016-07-02 23:40:05
-tags: [前端]
+tags: [JavaScript]
 ---
 
 我们在写页面的时候，会考虑将页面的一部分设为有特定的事件，比如`onclick`来绑定个点击事件

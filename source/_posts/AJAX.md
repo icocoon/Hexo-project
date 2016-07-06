@@ -1,7 +1,7 @@
 ---
 title: Ajax
 date: 2016-07-02 23:32:17
-tags: [前端]
+tags: [JavaScript]
 toc: false
 ---
 

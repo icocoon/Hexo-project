@@ -1,6 +1,6 @@
 title: 简述HTTP   
 date: 2016-07-02
-tags: [前端]  
+tags: [HTTP]  
 toc: false  
 ---
 

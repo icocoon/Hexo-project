@@ -1,6 +1,6 @@
 title: Hello World   
 date: 2016-07-01
-tags: [something]  
+tags: [随笔]  
 toc: false  
 ---
 
