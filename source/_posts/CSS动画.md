@@ -20,7 +20,7 @@ toc: false
 **语法：一般是 Animation 中使用 @keyframes（关键帧）**
 
 ### Transition
-从一个状态，到另一个状态
+从一个状态，到另一个状态。
 
 ![Transition](http://o768r1c9k.bkt.clouddn.com/Transition.png)
 
