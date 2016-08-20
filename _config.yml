@@ -12,8 +12,8 @@ language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://icocoon.club/blog
-root: /blog/
+url: http://icocoon.club
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
