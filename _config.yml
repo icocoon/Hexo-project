@@ -69,5 +69,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/icocoon/icocoon.github.io/tree/master/blog.git
+  repository: https://github.com/icocoon/icocoon.github.io/blog.git
   branch: master
