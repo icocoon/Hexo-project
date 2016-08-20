@@ -9,6 +9,8 @@ toc: false
 这篇文章我翻译自[w3schools.com](http://www.w3schools.com/)，仅供参考，有需要的可以看原文哦
 
 正式开始翻译啦
+<!--more-->
+
 
 <hr>
 

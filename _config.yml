@@ -12,8 +12,8 @@ language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://icocoon.club/
-root: /
+url: http://icocoon.club/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -69,5 +69,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/icocoon/icocoon.github.io.git
+  repository: https://github.com/icocoon/icocoon.github.io/tree/master/blog.git
   branch: master

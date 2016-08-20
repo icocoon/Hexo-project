@@ -4,8 +4,9 @@ date: 2016-07-06 20:04:59
 tags: [CSS]
 toc: false 
 ---
-
+![](http://o768r1c9k.bkt.clouddn.com/MediaQuery.png)
 Media Query，即[CSS 媒体查询](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Media_queries)，包含了一个媒体类型和至少一个媒体属性来限制样式表范围的表达式。
+<!--more-->
 
 ### 如何引用 Media Query
 
