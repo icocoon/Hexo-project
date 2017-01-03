@@ -7,4 +7,4 @@ comments: false
 <blockquote class="blockquote-center">念念不忘，必有回响</blockquote>
 <hr>
 
-![](http://o768r1c9k.bkt.clouddn.com/cat.jpg)
+![](http://o768r1c9k.bkt.clouddn.com/Gryffin%20Remix.png)
